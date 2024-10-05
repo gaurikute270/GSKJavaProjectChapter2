@@ -18,5 +18,5 @@ class SingleInheritanceExample {
         dog.sound();
         dog.bark();
     }
-
+    
 }
