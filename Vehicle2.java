@@ -15,3 +15,4 @@ class AbstractInheritanceExample {
         Bike bike = new Bike();
         bike.drive();
 }
+}
